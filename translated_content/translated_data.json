@@ -1,0 +1,590 @@
+[
+  {
+    "type": "text",
+    "page": 10,
+    "content": "Los argentinos venimos transitando desde hace décadas épocasrayanas en la peligrosidad extrema. Los discursos políticos resultananacrónicos y fracasados por donde se los mire. Todos padecen lasituación pero de modo especial los más vulnerables. De un cortotiempo a esta parte irrumpe en el escenario político Javier Milei, conun discurso a contracorriente, y propone nada más y nada menosque la libertad, con una profundidad no vista en muchísimo tiempoen nuestro medio, con lo que ha influido a muchos y ha corrido laparla de otros espacios políticos.",
+    "translated_content": "For decades, Argentinians have been experiencing times bordering on extreme danger. Political discourse, from whatever angle you look at it, is anachronistic and has failed. Everyone suffers the situation, but especially the most vulnerable. Recently, Javier Milei has burst onto the political scene with a counter-current discourse, proposing nothing more and nothing less than freedom, with a depth not seen in our environment for a very long time, thereby influencing many and causing concern among other political spaces.",
+    "bbox": [
+      76.99219512939453,
+      280.4209289550781,
+      529.6621704101562,
+      459.1787414550781
+    ]
+  },
+  {
+    "type": "text",
+    "page": 10,
+    "content": "Milei reitera que ha venido «a despertar leones y no a guiarcorderos», que su presencia es transitoria y que lo relevante son lasideas y no las personas; combate con vigor toda manifestacióntotalitaria y para contrarrestarlas formula propuestas que en estetexto vamos a resumir a vuelo de pájaro, algunas pocas de ellas, alefecto de ilustrar las posiciones que representa su partido. Lohacemos en forma de decálogo.",
+    "translated_content": "Milei reiterates that he has come \"to awaken lions and not to guide lambs,\" that his presence is temporary and that what is relevant are ideas and not people; he vigorously combats all totalitarian manifestations and, to counteract them, formulates proposals that in this text we will summarize at a bird's-eye view, a few of them, to illustrate the positions his party represents. We do so in the form of a decalogue.",
+    "bbox": [
+      76.99219512939453,
+      462.6709289550781,
+      530.5321655273438,
+      600.9287719726562
+    ]
+  },
+  {
+    "type": "text",
+    "page": 11,
+    "content": "«derechos difusos» y a la «subjetividad plural»: así se abre caminopara que cualquiera pueda señalar un uso considerado inadecuadode lo que al momento pertenece a otro.",
+    "translated_content": "\"diffuse rights\" and \"plural subjectivity\": this opens the way for anyone to point out a use considered inappropriate of what currently belongs to another.",
+    "bbox": [
+      76.99219512939453,
+      73.4208984375,
+      525.5821533203125,
+      130.6787109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 11,
+    "content": "El fundador y primer CEO de Weather Channel, John Coleman,el premio Nobel de Física Ivar Giaever y el ex presidente deGreenpeace de Canadá, Patrick Moore, sostienen que eldenominado ambientalismo se basa en un fraude en el sentido detergiversación de estadísticas. El aumento en la temperatura en elplaneta se ha elevado medio grado en el transcurso del último sigloy fue antes de que aparecieran los gases que fueron inyectados porlos humanos en la atmósfera (principalmente dióxido de carbono).También apuntan que en la época de los dinosaurios el nivel dedióxido de carbono era entre cinco y diez veces superior al actual, loque contribuyó a la riqueza de la vegetación, épocas en las que laTierra era a veces más calurosa y húmeda y otras, de mayorenfriamiento y sequedad.",
+    "translated_content": "The founder and first CEO of The Weather Channel, John Coleman, Nobel laureate in Physics Ivar Giaever, and former president of Greenpeace of Canada, Patrick Moore, maintain that so-called environmentalism is based on fraud in the sense of misrepresenting statistics. The increase in the planet's temperature has risen half a degree over the course of the last century and this was before the gases that were injected by humans into the atmosphere (mainly carbon dioxide) appeared. They also point out that in the age of dinosaurs, the carbon dioxide level was five to ten times higher than the current one, which contributed to the richness of vegetation, in times when the Earth was sometimes hotter and more humid and other times, of greater cooling and dryness.",
+    "bbox": [
+      76.99219512939453,
+      134.1708984375,
+      532.1972045898438,
+      393.9287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 11,
+    "content": "Es cierto que muchas especies marítimas están en vías deextinción debido a la antes mencionada tragedia de los comunes.Esto hoy no sucede con las vacas, aunque no siempre fue así: en laépoca de la colonia, en buena parte de América Latina el ganadovacuno se estaba extinguiendo debido a que cualquiera queencontrara un animal podía matarlo, engullirlo y dejar el resto en elcampo para las aves de rapiña. Lo mismo ocurría con los búfalos enEstados Unidos. Esto cambió cuando comenzaron a utilizarse losavances de la época: la marca primero y el alambrado más tardeclarificaron los derechos de propiedad. Lo mismo con los elefantesen Zimbabue: a partir de asignar derechos de propiedad de lamanada se dejó de ametrallarlos en busca de marfil.",
+    "translated_content": "It is true that many marine species are on the verge of extinction due to the aforementioned tragedy of the commons. This does not happen with cows today, although it was not always so: in colonial times, in a large part of Latin America, cattle were becoming extinct because anyone who found an animal could kill it, devour it, and leave the rest in the field for birds of prey. The same happened with buffalo in the United States. This changed when the advances of the time began to be used: branding first and fencing later clarified property rights. The same with elephants in Zimbabwe: after assigning property rights to the herd, they stopped being machine-gunned in search of ivory.",
+    "bbox": [
+      76.99219512939453,
+      397.4208984375,
+      531.357177734375,
+      636.9287719726562
+    ]
+  },
+  {
+    "type": "text",
+    "page": 11,
+    "content": "En cuanto al temor por la desaparición del agua, el premio Nobelde Economía Vernon Smith escribe: «El agua se ha convertido enun bien cuya cantidad y calidad es demasiado importante como paradejarla en manos de las autoridades políticas». El planeta está",
+    "translated_content": "Regarding the fear of water scarcity, Nobel laureate in Economics Vernon Smith writes: \"Water has become a good whose quantity and quality is too important to be left in the hands of political authorities.\" The planet is",
+    "bbox": [
+      76.99219512939453,
+      640.4209594726562,
+      533.877197265625,
+      717.9287719726562
+    ]
+  },
+  {
+    "type": "text",
+    "page": 12,
+    "content": "compuesto por agua en sus dos terceras partes, aunque la mayoríaes salada o está bloqueada por hielos. Sin embargo, hay unaprecipitación anual sobre tierra firme de 113 000 kilómetros cúbicos,de la que se evaporan 72 000. Eso deja un neto de 41 000, cifracapaz de cubrir holgadamente las necesidades de la poblaciónmundial. Sin embargo, se producen millones de muertes por aguacontaminada y escasez. Tal como ocurre en Camboya, Ruanda yHaití, eso se debe a la politización de la recolección, elprocesamiento y la distribución del agua. En esos países, laprecipitación es varias veces superior a la de Australia, donde notienen lugar esas políticas y, en consecuencia, no ocurren dichastragedias. En otras palabras, con el argumento de cuidar lapropiedad se liquida la institución de la propiedad vía las antedichasfiguras y se daña gravemente al planeta.",
+    "translated_content": "composed of water for two-thirds, although most of it is salty or locked up in ice. However, there is an annual precipitation over land of 113,000 cubic kilometers, of which 72,000 evaporate. That leaves a net of 41,000, a figure capable of amply covering the needs of the world's population. Nevertheless, millions of deaths occur from contaminated water and scarcity. As happens in Cambodia, Rwanda, and Haiti, this is due to the politicization of water collection, processing, and distribution. In these countries, precipitation is several times higher than in Australia, where these policies do not take place and, consequently, such tragedies do not occur. In other words, with the argument of caring for property, the institution of property is liquidated via the aforementioned figures and the planet is severely damaged.",
+    "bbox": [
+      76.99219512939453,
+      73.4208984375,
+      529.72216796875,
+      353.4287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 12,
+    "content": "Segundo, la banca central, cuya política solo puede encaminarseen una de tres direcciones: expansión, contracción o dejar inalteradala base monetaria. Cualquiera de estos caminos distorsiona losprecios relativos, que son los únicos indicadores para operar en elmercado, por lo que se estimula un derroche que indefectiblementerepercute negativamente en los salarios e ingresos en términosreales. Por ello es que resulta indispensable la liquidación del BancoCentral y el curso forzoso, permitiendo que la gente revele supreferencia en cuanto al activo monetario, tal como ha sugerido unay otra vez el premio Nobel Friedrich Hayek, entre otros.",
+    "translated_content": "Second, central banking, whose policy can only head in one of three directions: expansion, contraction, or leaving the monetary base unaltered. Any of these paths distorts relative prices, which are the only indicators for operating in the market, thus stimulating waste that inevitably has a negative impact on wages and real income. This is why the liquidation of the Central Bank and forced tender is indispensable, allowing people to reveal their preference regarding monetary assets, as Nobel laureate Friedrich Hayek, among others, has suggested time and again.",
+    "bbox": [
+      76.99219512939453,
+      356.9208984375,
+      534.7171630859375,
+      555.9287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 12,
+    "content": "Tercero, contar con una legislación en materia laboral compatiblecon una sociedad libre, que no trabe la contratación de trabajo; laabrogación de la fascista personería gremial, con todos los abusosque conlleva en desmedro de los genuinos trabajadores, y laliberación de una patética y sistemática estafa monumentalincrustada por un sistema nefasto de inseguridad antisocialjubilatorio.",
+    "translated_content": "Third, to have labor legislation compatible with a free society, which does not hinder the hiring of labor; the abrogation of fascist union personhood, with all the abuses it entails to the detriment of genuine workers, and the liberation from a pathetic and systematic monumental scam embedded by a nefarious system of social security insecurity.",
+    "bbox": [
+      76.99219512939453,
+      559.4208984375,
+      532.1671752929688,
+      697.6787109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 13,
+    "content": "Cuarto, en relación con el llamado aborto, en concordancia conlo consignado por genetistas de renombre internacional y con loexpresado por la Academia Nacional de Medicina de nuestro país:«El niño por nacer, científica y biológicamente, es un ser humanocuya existencia comienza al momento de su concepción». A vecesse ha sostenido que «la madre es dueña de su cuerpo», lo cual esabsolutamente cierto, pero no es dueña del cuerpo de otro. Es ciertoque está en potencia de muchas cosas, igual que todo ser humanoindependientemente de su edad, por lo que constituye unaarbitrariedad superlativa inventar un momento de la gestación paraproceder a la liquidación de esa vida humana como si se produjerauna mágica mutación en la especie (lo cual, dicho sea de paso, esuna lógica tan arbitraria que puede conducir a la justificación delinfanticidio). Un embrión humano contiene la totalidad de lainformación genética. En el momento de la fusión de los gametosmasculino y femenino —que aportan respectivamente 23cromosomas cada uno— se forma una nueva célula compuesta por46 cromosomas que contiene la totalidad de las características delser humano.",
+    "translated_content": "Fourth, in relation to the so-called abortion, in accordance with what has been stated by internationally renowned geneticists and by the National Academy of Medicine of our country: \"The unborn child, scientifically and biologically, is a human being whose existence begins at the moment of conception.\" It has sometimes been argued that \"the mother owns her body,\" which is absolutely true, but she does not own the body of another. It is true that she is capable of many things, just like any human being regardless of age, which is why it is a superlative arbitrariness to invent a moment in gestation to proceed with the liquidation of that human life as if a magical mutation in the species were occurring (which, incidentally, is such an arbitrary logic that it can lead to the justification of infanticide). A human embryo contains the totality of genetic information. At the moment of the fusion of the male and female gametes—which contribute 23 chromosomes each, respectively—a new cell is formed composed of 46 chromosomes that contains the totality of the characteristics of the human being.",
+    "bbox": [
+      76.99219512939453,
+      73.4208984375,
+      533.067138671875,
+      454.6788330078125
+    ]
+  },
+  {
+    "type": "text",
+    "page": 13,
+    "content": "Solo en base a un inadmisible acto de fe en la magia másrudimentaria puede sostenerse que diez minutos después delnacimiento estamos frente a un ser humano, pero no diez minutosantes. Como si antes del alumbramiento se tratara de un vegetal oun mineral que cambia súbitamente de naturaleza. Quienesmantienen que en el seno materno no se trataría de un humano delmismo modo que una semilla no es un árbol, confunden aspectoscruciales. La semilla pertenece en acto a la especie vegetal y estáen potencia de ser árbol, del mismo modo que el feto pertenece enacto a la especie humana en potencia de ser adulto.",
+    "translated_content": "Only based on an inadmissible act of faith in the most rudimentary magic can it be maintained that ten minutes after birth we are facing a human being, but not ten minutes before. As if before childbirth it were a vegetable or a mineral that suddenly changes its nature. Those who maintain that in the maternal womb it would not be a human in the same way that a seed is not a tree, confuse crucial aspects. The seed belongs in act to the plant species and is in potential to be a tree, just as the fetus belongs in act to the human species in potential to be an adult.",
+    "bbox": [
+      76.99219512939453,
+      458.1710205078125,
+      525.5821533203125,
+      657.1788330078125
+    ]
+  },
+  {
+    "type": "text",
+    "page": 13,
+    "content": "Quinto, la distinción entre empresarios que, para mejorar susituación patrimonial, deben ofrecer bienes y servicios que atiendanlas necesidades de su prójimo respecto de los prebendarios que,",
+    "translated_content": "Fifth, the distinction between entrepreneurs who, to improve their financial situation, must offer goods and services that attend to the needs of their neighbors versus the beneficiaries who,",
+    "bbox": [
+      76.99219512939453,
+      660.6710205078125,
+      528.0272216796875,
+      717.9288330078125
+    ]
+  },
+  {
+    "type": "text",
+    "page": 14,
+    "content": "aliados al poder de turno, explotan miserablemente a los demás através de privilegios de distinta índole.",
+    "translated_content": "allies of the current power, they miserably exploit others through privileges of various kinds.",
+    "bbox": [
+      76.99219512939453,
+      73.4208984375,
+      515.5321655273438,
+      110.4287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 14,
+    "content": "Sexto, la insistencia en preservar la democracia al estilo de losGiovanni Sartori de nuestra época y evitar que se convierta encleptocracia cuando se desconoce su aspecto medular: el respetopor los derechos de todos, en lugar de otorgar prelación al merorecuento de votos, como ocurre en territorios como el venezolano(que además encaja fraudes groseros).",
+    "translated_content": "Sixth, the insistence on preserving democracy in the style of the Giovanni Sartoris of our time and preventing it from becoming a kleptocracy when its core aspect is ignored: respect for everyone's rights, instead of prioritizing the mere count of votes, as happens in territories like Venezuela (which also fits gross frauds).",
+    "bbox": [
+      76.99219512939453,
+      113.9208984375,
+      517.1522216796875,
+      231.9287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 14,
+    "content": "Séptimo, la trascendencia de la integración al mundo vía elcomercio exterior libre de trabas.",
+    "translated_content": "Seventh, the transcendence of integration into the world via free foreign trade.",
+    "bbox": [
+      76.99219512939453,
+      235.4208984375,
+      492.1771240234375,
+      272.4287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 14,
+    "content": "Octavo, la reducción de cargas tributarias para ubicarlas a nivelde atender con prontitud la seguridad y la justicia.",
+    "translated_content": "Eighth, the reduction of tax burdens to a level that promptly addresses security and justice.",
+    "bbox": [
+      76.99219512939453,
+      275.9208984375,
+      522.1621704101562,
+      312.9287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 14,
+    "content": "Noveno, revisar el organigrama gubernamental al efecto dereducir el gasto público en aquellas faenas que exceden a la misiónespecífica de una sociedad abierta, del modo en que también haninsistido otros premios Nobel de Economía, como Milton Friedman,George Stigler y Gary Becker. En esta línea argumental, facilitar laimplementación del genuino federalismo y la consiguientedescentralización del poder en todos los niveles.",
+    "translated_content": "Ninth, review the governmental organizational chart to reduce public spending on tasks that exceed the specific mission of an open society, as other Nobel laureates in Economics, such as Milton Friedman, George Stigler, and Gary Becker, have also insisted. In this line of reasoning, facilitate the implementation of genuine federalism and the consequent decentralization of power at all levels.",
+    "bbox": [
+      76.99219512939453,
+      316.4208984375,
+      527.2171630859375,
+      454.6787109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 14,
+    "content": "Y décimo, apuntar a la no renovación de deuda externa sobre labase, por un lado, del hecho de que esto implica comprometerpatrimonios de futuras generaciones que no han participado en laelección del gobierno que contrajo la deuda y, por otro, embretar almonopolio de la fuerza a financiarse exclusivamente con recursospresentes una vez eliminada la denominada autoridad monetaria ycerrado el camino del endeudamiento externo, lo cual ha sidoexpuesto en primer lugar por el premio Nobel de Economía JamesM. Buchanan.",
+    "translated_content": "And tenth, aim for the non-renewal of external debt based, on the one hand, on the fact that this implies mortgaging the assets of future generations who have not participated in the election of the government that contracted the debt and, on the other, to obligate the monopoly of force to finance itself exclusively with present resources once the so-called monetary authority is eliminated and the path of external indebtedness is closed, which has been explained in the first place by Nobel laureate in Economics James M. Buchanan.",
+    "bbox": [
+      76.99219512939453,
+      458.1708984375,
+      526.3921508789062,
+      636.9287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 14,
+    "content": "Ya sabemos que los liberales no somos una manada y quedetestamos el pensamiento único; son esperables disidencias dematices en varias direcciones, desacuerdos que tenemos connosotros mismos cuando repasamos un texto anterior y nos damos",
+    "translated_content": "We already know that we liberals are not a herd and that we detest groupthink; disagreements on nuances in various directions are to be expected, disagreements we have with ourselves when we review a previous text and we find",
+    "bbox": [
+      76.99219512939453,
+      640.4208984375,
+      523.8421630859375,
+      717.9287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 15,
+    "content": "cuenta de que podríamos haber mejorado la marca, puesto que,como decía Borges, «no hay tal cosa como un texto perfecto» (fraseaplicable a todos los órdenes de la vida). Hay algunos comentariosque provienen de quienes parece que no se percatan de en quépaís vivimos ni qué está ocurriendo. Pero en el caso de Mileiresultan inauditas algunas de las críticas echadas a correr, en primerlugar, naturalmente, por todo el espectro estatista, que discreparadicalmente con la libertad, pero también por envidiosos quebuscan pantallas y «la quinta pata al gato» para disfrazar su mala fey celos crecientes en medio de inventos mentirosos. También por losque no pueden despegarse de «lo políticamente correcto» ni de lastelarañas mentales del statu quo, y por aquellos que, al provenir detradiciones de pensamiento muy alejadas del liberalismo, aunque entránsito hacia la libertad, se alarman y estiman que las propuestasde marras se tornan en una píldora demasiado grande para digerir.",
+    "translated_content": "account that we could have improved the brand, since, as Borges said, \"there is no such thing as a perfect text\" (a phrase applicable to all walks of life). There are some comments from those who seem unaware of what country we live in or what is happening. But in Milei's case, some of the criticisms that have been spread are unheard of, firstly, naturally, from the entire statist spectrum, which radically disagrees with freedom, but also from the envious who seek screens and \"the fifth leg to the cat\" to disguise their bad faith and growing jealousy amidst lying inventions. Also by those who cannot detach themselves from \"political correctness\" or from the mental cobwebs of the status quo, and by those who, coming from traditions of thought very far from liberalism, although in transit towards freedom, become alarmed and believe that the proposals in question become a pill too large to digest.",
+    "bbox": [
+      76.99219512939453,
+      73.4208984375,
+      534.7294311523438,
+      373.6787109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 15,
+    "content": "Sin embargo, si las ideas tan sólidas expuestas por Milei sellevaran a la práctica, nuestro país volvería a ser ejemplo del mundocivilizado, tal como ocurrió cuando los preceptos alberdianos seaplicaron desde la Constitución liberal de 1853, que permitió que lossalarios del peón rural y del obrero de la incipiente industria fueranmuy superiores a los de Alemania, Francia, Italia y España. Fue larazón por la que la población se duplicó cada 10 años y quetuviéramos indicadores equivalentes a los de Estados Unidos.Después vino la revolución fascista de 1930, y a partir del golpemilitar de 1943 se han aplicado —sin solución de continuidad hastanuestros días— medidas estatistas en grados diversos y, por tanto,con sucesivas crisis que empujan a bajar escalones en todos losrubros y ámbitos posibles, juntamente con una degradacióncreciente de las instituciones republicanas.",
+    "translated_content": "However, if the solid ideas expounded by Milei were put into practice, our country would once again be an example for the civilized world, as happened when the Alberdian precepts were applied from the liberal Constitution of 1853, which allowed the wages of rural laborers and factory workers in nascent industry to be much higher than those in Germany, France, Italy, and Spain. That was the reason why the population doubled every 10 years and why we had indicators equivalent to those of the United States. Then came the fascist revolution of 1930, and from the military coup of 1943 onwards, statist measures have been applied—without interruption until the present day—to varying degrees, and consequently, with successive crises that push us down steps in all possible sectors and areas, along with a growing degradation of republican institutions.",
+    "bbox": [
+      76.99219512939453,
+      377.1708984375,
+      531.3721313476562,
+      657.1787109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 15,
+    "content": "Javier Milei, en su incursión previa en los ámbitos académicos,ha mostrado gran pericia y conocimiento en las materias de suincumbencia, con especial referencia a los extraordinarios aportes",
+    "translated_content": "Javier Milei, in his previous foray into academic circles, has shown great expertise and knowledge in the subjects of his incumbency, with special reference to the extraordinary contributions",
+    "bbox": [
+      76.99219512939453,
+      660.6708984375,
+      517.962158203125,
+      717.9287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 16,
+    "content": "de la Escuela Austríaca, liderados por pensadores de la talla de CarlMenger en el origen y continuados por Ludwig von Mises, IsraelKirzner y Murray Rothbard, legado que este personaje moderno dela política argentina ha trasmitido con gran eficiencia a generacionesjóvenes para que cada uno sepa valorar su independencia yautonomía individual. Estos rasgos han sido destacados por laprensa mundial, como por ejemplo The Economist de Londres, LaGaceta de Madrid, Le Monde de París y El País de Montevideo, quetambién subrayan el carácter eminentemente moral de eseemprendimiento.",
+    "translated_content": "of the Austrian School, led by thinkers of the caliber of Carl Menger at its origin and continued by Ludwig von Mises, Israel Kirzner, and Murray Rothbard, a legacy that this modern figure of Argentine politics has transmitted with great efficiency to young generations so that each one knows how to value their independence and individual autonomy. These traits have been highlighted by the world press, such as The Economist of London, La Gaceta of Madrid, Le Monde of Paris, and El País of Montevideo, which also underscore the eminently moral character of that undertaking.",
+    "bbox": [
+      76.99219512939453,
+      73.4208984375,
+      533.0371704101562,
+      272.4287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 16,
+    "content": "Por último y para cerrar este breve apunte, es pertinentedestacar que una cosa es el necesario tendido de puenteselectorales con espacios afines para evitar caer en las garras delchavismo local, y otra bien distinta es la conducta de un liberal en elCongreso que debe poner de manifiesto su independencia decriterio y no proceder al voto en bloque, convirtiendo al Parlamentoen una escribanía en la que todos proceden como monos en unajaula, lo cual no quita la oposición conjunta a sugerencias delestatismo vernáculo. Esta independencia de los legisladoresargentinos fue uno de los rasgos que los representantes de laAcademia Francesa enfatizaron con admiración cuando nosvisitaron con motivo de la celebración del Centenario en 1910.",
+    "translated_content": "Finally, and to conclude this brief note, it is pertinent to highlight that one thing is the necessary building of electoral bridges with like-minded spaces to avoid falling into the clutches of local Chavismo, and quite another is the conduct of a liberal in Congress, who must demonstrate their independence of judgment and not proceed with bloc voting, turning Parliament into a notary's office where everyone acts like monkeys in a cage, which does not preclude joint opposition to suggestions of vernacular statism. This independence of Argentine legislators was one of the traits that the representatives of the French Academy emphasized with admiration when they visited us for the Centennial celebration in 1910.",
+    "bbox": [
+      76.99219512939453,
+      275.921142578125,
+      528.8671264648438,
+      515.428955078125
+    ]
+  },
+  {
+    "type": "text",
+    "page": 16,
+    "content": "*. Alberto Benegas Lynch (h.) es doctor en Economía y doctor en Ciencias deDirección. Académico de la Academia Nacional de Ciencias Económicas, fueprofesor y primer rector de ESEADE, cargo que desempeñó durante 23 años;tras su renuncia fue distinguido, por las nuevas autoridades, profesor emérito ydoctor honoris causa. Es presidente de la sección Ciencias Económicas de laAcademia Nacional de Ciencias de Buenos Aires, miembro del Instituto deMetodología de las Ciencias Sociales de la Academia Nacional de CienciasMorales y Políticas, miembro del Consejo Consultivo del Institute of EconomicAffairs de Londres, académico asociado de Cato Institute en Washington,",
+    "translated_content": "Alberto Benegas Lynch (Jr.) holds a Ph.D. in Economics and a Ph.D. in Management Sciences. He is an academician of the National Academy of Economic Sciences and served as professor and first rector of ESEADE for 23 years. Following his resignation, he was honored by the new authorities with the titles of professor emeritus and doctor honoris causa. He is president of the Economic Sciences section of the National Academy of Sciences of Buenos Aires, a member of the Institute of Methodology of Social Sciences of the National Academy of Moral and Political Sciences, a member of the Advisory Council of the Institute of Economic Affairs in London, and an associated academician of the Cato Institute in Washington.",
+    "bbox": [
+      93.23438262939453,
+      558.6888427734375,
+      530.8030395507812,
+      704.6481323242188
+    ]
+  },
+  {
+    "type": "text",
+    "page": 17,
+    "content": "miembro del Consejo Académico del Ludwig von Mises Institute en Auburn,miembro del Comité de Honor de la Fundación Bases de Rosario. En Twitter:@ABENEGASLYNCH_h. Versión del texto publicado en el portal Infobae, el 27de noviembre de 2021.",
+    "translated_content": "member of the Academic Council of the Ludwig von Mises Institute in Auburn, member of the Honorary Committee of the Bases Foundation of Rosario. On Twitter: @ABENEGASLYNCH_h. Version of the text published on the Infobae portal, November 27, 2021.",
+    "bbox": [
+      93.23438262939453,
+      72.68860626220703,
+      530.7586059570312,
+      136.1478729248047
+    ]
+  },
+  {
+    "type": "text",
+    "page": 18,
+    "content": "I. EL CAMINO DEL LIBERTARIO",
+    "translated_content": "I. THE PATH OF THE LIBERTARIAN",
+    "bbox": [
+      122.40235900878906,
+      173.8704376220703,
+      489.59381103515625,
+      201.79733276367188
+    ]
+  },
+  {
+    "type": "text",
+    "page": 19,
+    "content": "El camino en primera persona",
+    "translated_content": "The path in the first person",
+    "bbox": [
+      176.78907775878906,
+      112.96260070800781,
+      435.2120666503906,
+      134.60531616210938
+    ]
+  },
+  {
+    "type": "text",
+    "page": 19,
+    "content": "1. El inicio, la decisión y el primer paper",
+    "translated_content": "1. The beginning, the decision, and the first paper",
+    "bbox": [
+      76.99219512939453,
+      233.71261596679688,
+      445.1884765625,
+      255.35533142089844
+    ]
+  },
+  {
+    "type": "text",
+    "page": 19,
+    "content": "Nací el 22 de octubre de 1970 en el seno de una familia de clasemedia. «El Libertario», ese que ahora soy yo, lo hizo apenas untiempo después. Me recuerdo con 11 años, en abril de 1982, estarescuchando la famosa frase de Lorenzo Sigaut: «El que apuesta aldólar pierde». Ese fue el inicio de la debacle del modelo de la tablitacambiaria, pero no solo eso, también fue el momento en quedescubrí que había mucha gente que en mi país estaba mal.Agobiada. Y lo estaba por sus deudas, épocas de la Circular 1050.En ese momento, de repente, y fruto de la licuación, gente queestaba bien pasó a estar muy mal, y viceversa, aunque en elagregado todo estaba peor. Algo había ocurrido. Algo le habíacambiado el modo de vida a mucha gente de manera sustancial. Yosiempre estuve muy atento a las charlas que tenían mis padres consus amigos, con sus allegados o con los padres de mis compañerosdel colegio. Veía esas interacciones y también las fluctuaciones enlos niveles de vida. Fluctuaciones que básicamente estaban ligadasa los cambios de la economía. Y eso que a los adultos lesimpactaba tanto, a mí, ya de chico, también. Todos en cierta maneranotaban que vivían peor y más atentos a la economía. Yo también.De hecho, fue en ese momento que decidí estudiar Economía. Si lascosas que pasaban con el dólar, con la inflación, con la economía en",
+    "translated_content": "I was born on October 22, 1970, into a middle-class family. \"The Libertarian,\" which is what I am now, came into being just a short time later. I remember being 11 years old, in April 1982, listening to Lorenzo Sigaut's famous phrase: \"He who bets on the dollar loses.\" That was the beginning of the downfall of the exchange rate tablita model, but not only that, it was also the moment I discovered that many people in my country were doing poorly. Overwhelmed. And they were overwhelmed by their debts, during the Circular 1050 era. At that moment, suddenly, and as a result of the liquefaction, people who were well off became very unwell, and vice versa, although in aggregate everything was worse. Something had happened. Something had substantially changed the way of life for many people. I was always very attentive to the conversations my parents had with their friends, their acquaintances, or the parents of my schoolmates. I saw those interactions and also the fluctuations in living standards. Fluctuations that were basically linked to economic changes. And what impacted adults so much, also impacted me as a child. Everyone, in a way, noticed that they were living worse and were more attentive to the economy. Me too. In fact, it was at that moment that I decided to study Economics. If the things that happened with the dollar, with inflation, with the economy",
+    "bbox": [
+      76.99219512939453,
+      281.9209289550781,
+      534.7759399414062,
+      703.6787719726562
+    ]
+  },
+  {
+    "type": "text",
+    "page": 20,
+    "content": "general afectaban el bienestar de las personas, tenía que entendercómo funcionaba. Y para entender, evidentemente, tenía queestudiar.",
+    "translated_content": "general affected people's well-being, I had to understand how it worked. And to understand, evidently, I had to study.",
+    "bbox": [
+      76.99219512939453,
+      73.4208984375,
+      523.0921630859375,
+      130.6787109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 20,
+    "content": "Pero no solo la economía despertaba interés en mí. Paraentonces era un chico marcado por el Mundial 78 y las descollantesactuaciones de Mario Alberto «El Matador» Kempes y UbaldoMatildo «El Pato» Fillol. El Pato, a quien tuve oportunidad deconocer y abrazar ya de grande, es uno de mis máximos ídolos. Dehecho, fue tal la influencia que tuvo sobre mí que no lo dudé enningún momento. Si de fútbol se trataba, mi lugar dentro de unacancha era el arco. Y lo fue a pesar de que mis características noeran las más adecuadas para un arquero (mi altura es 1,80 metros).Sin embargo, fueron justamente esas características las quehicieron que, cuando jugaba en Chacarita Juniors, entrenara muchomás. Y gracias a semejante nivel de entrenamiento —seis horas pordía—, cuando estaba en el arco, saltaba y al travesaño lo dejaba ala altura del pecho. Volaba de palo a palo sin dificultad. Este no esun dato menor, ya que marca un rasgo de personalidad. El arquerono solo se viste distinto (diez con el mismo uniforme y unototalmente diferente) y puede utilizar las manos dentro del áreagrande, sino que además tiene su propio entrenamiento, juega conla tribuna en la espalda todo el tiempo, suele festejar los goles ensoledad y es el único que, cuando se equivoca, paga con un gol encontra. Obviamente, debería quedar claro que ser arquero requiereuna personalidad muy particular.",
+    "translated_content": "But it wasn't just economics that sparked my interest. By then, I was a boy marked by the World Cup 78 and the dazzling performances of Mario Alberto \"El Matador\" Kempes and Ubaldo Matildo \"El Pato\" Fillol. El Pato, whom I had the chance to meet and hug when I was older, is one of my greatest idols. In fact, his influence on me was such that I never hesitated. If it was about soccer, my place on the field was in goal. And it was so despite my characteristics not being the most suitable for a goalkeeper (my height is 1.80 meters). However, it was precisely those characteristics that led me to train much more when I played for Chacarita Juniors. And thanks to such a level of training—six hours a day—when I was in goal, I would jump and leave the crossbar at chest height. I flew from post to post without difficulty. This is not a minor detail, as it marks a personality trait. The goalkeeper not only dresses differently (ten with the same uniform and one completely different) and can use their hands within the penalty area, but also has their own training, plays with the crowd at their back all the time, usually celebrates goals alone, and is the only one who, when they make a mistake, pays with an own goal. Obviously, it should be clear that being a goalkeeper requires a very particular personality.",
+    "bbox": [
+      76.99219512939453,
+      134.1708984375,
+      531.3421020507812,
+      576.1787719726562
+    ]
+  },
+  {
+    "type": "text",
+    "page": 20,
+    "content": "Así, atravesado por dos pasiones —la economía y el arco—, fuicreciendo hasta que en junio de 1989, mientras cursaba el primeraño de la licenciatura en Economía en la Universidad de Belgrano,mi mamá me pidió que la acompañara al supermercado. Meacuerdo como si fuera el día de hoy. Plena hiperinflación. Yo estabaapoyado con los brazos sobre el changuito y no me olvido más loque sentí al ver a unas chicas con guardapolvos usando una",
+    "translated_content": "Thus, driven by two passions—economics and archery—I grew until, in June 1989, while in my first year of the economics degree at the University of Belgrano, my mother asked me to accompany her to the supermarket. I remember it as if it were today. Peak hyperinflation. I was leaning with my arms on the shopping cart and I will never forget what I felt when I saw some girls in smocks using a",
+    "bbox": [
+      76.99219512939453,
+      579.6709594726562,
+      528.11376953125,
+      717.9287719726562
+    ]
+  },
+  {
+    "type": "text",
+    "page": 21,
+    "content": "especie de pistola, las famosas tickeadoras, sin parar de remarcarprecios mientras la gente se abalanzaba sobre la mercadería. Fueun momento de enorme confusión. Todo aquello que estaban viendomis ojos se llevaba de patadas con lo que venía estudiando en launiversidad (algo evidente para un primer curso de economía de lacarrera). Los precios subían pero la demanda no bajaba. La gentese seguía tirando arriba de los productos, procurando acapararlos.Así que, mientras veía esa película, pensé: «Lo que estoyestudiando en la universidad está mal o soy un pelotudo que noentiende nada». Así es que asumí que, al destinar seis horas diariasal entrenamiento de fútbol, no estaba estudiando lo suficiente comopara entender la naturaleza del problema, y fue ahí mismo quedecidí abandonar el fútbol y comenzar a estudiar economía demanera superintensiva.",
+    "translated_content": "kind of pistol, the famous price-tagging machines, nonstop marking up prices as people pounced on the merchandise. It was a moment of enormous confusion. Everything my eyes were seeing clashed with what I had been studying at university (something evident in a first-year economics course). Prices were rising, but demand wasn't falling. People kept grabbing products, trying to hoard them. So, while watching that scene, I thought: \"Either what I'm studying at university is wrong, or I'm an idiot who doesn't understand anything.\" Thus, I assumed that by dedicating six hours a day to football training, I wasn't studying enough to grasp the nature of the problem, and it was right then that I decided to quit football and start studying economics in a super-intensive way.",
+    "bbox": [
+      76.99219512939453,
+      73.4208984375,
+      533.1038818359375,
+      353.4287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 21,
+    "content": "Comencé a leer muchísimos libros, más allá del material que medaban en la facultad. Podría decir que comencé un proceso deeducación autodidacta y ya a los 20 años escribí mi primer paper,llamado: «La hiperinflación y la distorsión en los mercados».",
+    "translated_content": "I began reading many books, beyond the material provided at the faculty. I could say I started a process of self-taught education, and at just 20 years old, I wrote my first paper, titled: \"Hyperinflation and Market Distortion.\"",
+    "bbox": [
+      76.99219512939453,
+      356.9208984375,
+      529.6171875,
+      434.4287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 21,
+    "content": "En ese artículo, básicamente desde mi intuición, terminoderivando un modelo de expectativas adaptativas, el cual mepermitía derivar una curva de oferta agregada con pendientenegativa, en lugar de positiva o vertical, y eso hacía que lossucesivos aumentos de la demanda agregada, fruto del déficit fiscalfinanciado con la emisión monetaria, generaran un equilibrio dondeno solo subían los precios sino que además se contraía laeconomía; donde, además, la característica de dicho equilibrio erasu estabilidad porque, cuanto más altos los precios, la curva dedemanda se volvía más elástica. Y si bien la curva de oferta seinvertía, era mucho menos elástica que la demanda; entonces,generaba un equilibrio que no solo existía y era único por lalinealidad de las funciones de oferta y demanda resultantes, sinoque además era estable. Así, a los 20 años había llegado a explicar",
+    "translated_content": "In that article, basically from my intuition, I ended up deriving a model of adaptive expectations, which allowed me to derive an aggregate supply curve with a negative slope, instead of positive or vertical, and that caused successive increases in aggregate demand, resulting from fiscal deficit financed by monetary emission, to generate an equilibrium where not only prices rose but the economy also contracted; where, furthermore, the characteristic of said equilibrium was its stability because, the higher the prices, the more elastic the demand curve became. And although the supply curve inverted, it was much less elastic than demand; therefore, it generated an equilibrium that not only existed and was unique due to the linearity of the resulting supply and demand functions, but was also stable. Thus, at 20 years old, I had managed to explain",
+    "bbox": [
+      76.99219512939453,
+      437.9208984375,
+      528.0721435546875,
+      717.9287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 22,
+    "content": "un proceso hiperinflacionario que, por otra parte, implicaba que lapresencia de la aceleración inflacionaria derivada de una hípertambién generaba contracción de cantidades; esto es, caída del PIB(producto), caída del empleo y caída de los salarios reales.",
+    "translated_content": "a hyperinflationary process that, on the other hand, implied that the presence of inflationary acceleration derived from a hyperinflation also generated a contraction of quantities; that is, a fall in GDP (product), a fall in employment, and a fall in real wages.",
+    "bbox": [
+      76.99219512939453,
+      73.4208984375,
+      530.5772094726562,
+      150.9287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 22,
+    "content": "En paralelo, y para «perfeccionar mi veta histriónica», junto conHernán Boracchia (baterista), con quien nos une una gran amistaddesde los 10 años, decidimos armar una banda tributo a los RollingStones. Sumamos al talentosísimo guitarrista Juan Carlos Marioni ya Diego Vila (bajo), para que finalmente Diego Parise (guitarrarítmica) se nos uniera para completar el quinteto. Mi lugar en labanda era el de vocalista que intentaba replicar el rol de Mick Jaggeren la banda de rock más grande en el mundo. Con mi paso por lamúsica pasa lo mismo que con el fútbol: quienes vieron yacompañaron el proceso dicen que era bueno. Mi percepción no estan optimista.",
+    "translated_content": "In parallel, and to \"perfect my histrionic streak,\" together with Hernán Boracchia (drummer), with whom we have shared a great friendship since we were 10 years old, we decided to form a tribute band to the Rolling Stones. We added the very talented guitarist Juan Carlos Marioni and Diego Vila (bass), and finally Diego Parise (rhythm guitar) joined us to complete the quintet. My role in the band was that of vocalist, attempting to replicate the role of Mick Jagger in the biggest rock band in the world. With my time in music, the same thing happens as with football: those who saw and accompanied the process say I was good. My perception is not as optimistic.",
+    "bbox": [
+      76.99219512939453,
+      154.4208984375,
+      534.7021484375,
+      373.6788330078125
+    ]
+  },
+  {
+    "type": "text",
+    "page": 22,
+    "content": "2. El estudio del keynesianismo, la maestría en elInstituto para el Desarrollo Económico y Social",
+    "translated_content": "2. The study of keynesianism, the master's degree at the Institute for Economic and Social Development",
+    "bbox": [
+      76.99219512939453,
+      434.71270751953125,
+      530.2908325195312,
+      478.8554382324219
+    ]
+  },
+  {
+    "type": "text",
+    "page": 22,
+    "content": "La Universidad de Belgrano, como cualquier casa de estudios, tieneregulados los contenidos así que, cuando terminé la carrera degrado, salí formado con la típica estructura analítica decentroizquierda, o sea, era post-keynesiano con tintes deestructuralista, alguien que creía que la inflación es multicausal, quees importante la presencia del Estado regulando la economía, quehay un rol destacado para el Banco Central y el Estado tiene queintervenir determinados mercados «fundamentales», como elcambiario, entre otras cosas. Sin embargo, pese a mi visión",
+    "translated_content": "The University of Belgrano, like any institution of higher learning, has regulated curricula, so when I finished my undergraduate degree, I emerged with the typical analytical structure of the center-left. In other words, I was post-keynesian with de-structuralist leanings, someone who believed that inflation is multicausal, that the State's presence in regulating the economy is important, that there is a prominent role for the Central Bank, and that the State must intervene in certain \"fundamental\" markets, such as the exchange market, among other things. However, despite my vision",
+    "bbox": [
+      76.99219512939453,
+      505.4210205078125,
+      530.5322265625,
+      684.1788330078125
+    ]
+  },
+  {
+    "type": "text",
+    "page": 23,
+    "content": "presente, no reniego de aquello, porque precisamente es lo que hoyme permite abrazar con más fuerza las ideas de la libertad.",
+    "translated_content": "present, I do not disown it, because it is precisely what today allows me to embrace the ideas of freedom more strongly.",
+    "bbox": [
+      76.99219512939453,
+      73.4208984375,
+      530.5771484375,
+      110.4287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 23,
+    "content": "Lo cierto es que, como post-keynesiano con tintes deestructuralista, decidí hacer una maestría en el IDES (Instituto parael Desarrollo Económico y Social), donde, básicamente, lo que hicefue estudiar keynesianismo a fondo. Ahí, a través de sus excelentesprofesores, José María Fanelli, Jorge Streb, Mario Damil, RobertoFrenkel, Guillermo Rozenwurcel, Luis Acosta, Fabián Abadie yJavier Finkman, entre otros, estudié distintas variantes delkeynesianismo. Es más, me hice muy amigo de Javier Finkman(QEPD) y él me llevó como ayudante de Microeconomía a laUniversidad de Buenos Aires. Paralelamente a ser ayudante deJavier, me reencontré con un profesor de la UB, Daniel Pérez Enrri,y me ofreció ser su ayudante en Macro. Esto es muy interesanteporque en ese momento el análisis microeconómico iba por un lado,el crecimiento (campo en el que años más tarde me especialicé) ibapor otro y la macroeconomía por otro. Sin embargo, dadas misrestricciones de tiempo y las posibilidades laborales que mebrindaba trabajar en temas de regulación y análisis y valuación deempresas, dejé el curso de Macro, me metí más con el tema de laMicro y empecé a hacer un recorrido a fondo en cuestiones demicroeconomía, que a la postre terminaba en el análisis de equilibriogeneral (mismo campo de aplicación de la macro, pero conmicrofundamentos).",
+    "translated_content": "As a post-keynesian with de-structuralist leanings, I decided to pursue a master's degree at IDES (Institute for Economic and Social Development), where, basically, I studied keynesianism in depth. There, through its excellent professors, José María Fanelli, Jorge Streb, Mario Damil, Roberto Frenkel, Guillermo Rozenwurcel, Luis Acosta, Fabián Abadie, and Javier Finkman, among others, I studied different variants of keynesianism. Furthermore, I became very good friends with Javier Finkman (R.I.P.), and he brought me on as a teaching assistant for Microeconomics at the University of Buenos Aires. In parallel to being Javier's assistant, I reconnected with a UB professor, Daniel Pérez Enrri, and he offered me the position of his assistant in Macroeconomics. This is very interesting because at that time, microeconomic analysis went in one direction, growth (a field in which I later specialized) went in another, and macroeconomics in yet another. However, given my time constraints and the job opportunities that working on regulation and business analysis and valuation provided me, I dropped the Macroeconomics course, delved deeper into Microeconomics, and began a thorough exploration of microeconomic issues, which ultimately led to the analysis of general equilibrium (the same field of application as macroeconomics, but with microfoundations).",
+    "bbox": [
+      76.99219512939453,
+      113.9208984375,
+      533.84716796875,
+      555.9287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 23,
+    "content": "En medio de todo ello, surgió la posibilidad de escribir un artículoen la Universidad de Belgrano, en un equipo liderado por William J.Baumol (dos veces candidato al Nobel de Economía), y con dosprofesionales maravillosos en el plano local, como Víctor AlbertoBeker y Alfredo Juan Canavese (QEPD).Un trabajo en el que habíamucha micro aplicada, porque mostraba la disputabilidad delmercado telefónico, lo que después fue muy importante, por todoslos temas regulatorios que, para mí, habrían de convertirse en una",
+    "translated_content": "Amidst all this, the opportunity arose to write an article at the University of Belgrano, in a team led by William J. Baumol (twice a Nobel candidate in Economics), and with two wonderful local professionals, Víctor Alberto Beker and Alfredo Juan Canavese (R.I.P.). A work that involved a lot of applied microeconomics, because it showed the contestability of the telephone market, which later became very important, due to all the regulatory issues that, for me, were to become a",
+    "bbox": [
+      76.99219512939453,
+      559.4208984375,
+      532.1821899414062,
+      717.9287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 24,
+    "content": "fuente de vida, por decirlo de alguna manera. De hecho, participé enla defensa de Argentina en cinco casos en el CIADI (el CentroInternacional de Arreglo de Diferencias), después de habertrabajado haciendo valuación de empresas en HSBC, para luegopasar a Máxima AFJP, trabajando además como economista, paradesembocar más tarde como economista coordinador del EstudioBroda.",
+    "translated_content": "source of life, so to speak. In fact, I participated in the defense of Argentina in five cases at ICSID (the International Centre for Settlement of Investment Disputes), after having worked doing business analysis and valuation at HSBC, then moving to Máxima AFJP, also working as an economist, and later ending up as the coordinating economist at Broda & Associates.",
+    "bbox": [
+      76.99219512939453,
+      73.4208984375,
+      533.067138671875,
+      211.6787109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 24,
+    "content": "De hecho, fue en el contexto de mi trabajo en HSBC que, paraque me resultara más divertida la tarea, lo que hacía era darles a losdocumentos muchos microfundamentos. Lo cual implicaba usarintensivamente la teoría económica. Pero la verdad, pese a que eramuy bueno en la micro, en macro siempre le pifiaba. Había algo queno funcionaba. Así que un día, en medio de una profunda autocríticay dado el vínculo que tenía con Alfredo Canavese, me puse a hacerel posgrado en Economía de la Universidad Torcuato Di Tella(UTDT).",
+    "translated_content": "In fact, it was in the context of my work at HSBC that, to make the task more enjoyable for me, I gave the documents many microfoundations. This involved intensively using economic theory. But the truth is, despite being very good at micro, I always messed up macro. There was something that wasn't working. So one day, in the midst of a deep self-criticism and given my connection with Alfredo Canavese, I started my postgraduate studies in Economics at Torcuato Di Tella University (UTDT).",
+    "bbox": [
+      76.99219512939453,
+      215.1708984375,
+      533.8621215820312,
+      393.9287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 24,
+    "content": "3. Estudio en la Di Tella: una maestría másecléctica",
+    "translated_content": "3. Study at Di Tella: a more eclectic master's degree",
+    "bbox": [
+      76.99219512939453,
+      454.96258544921875,
+      467.43756103515625,
+      499.1053161621094
+    ]
+  },
+  {
+    "type": "text",
+    "page": 24,
+    "content": "Cansado de errar tanto con las familias de modelos keynesianos yestructuralistas, ingreso en la Di Tella. Allí comienzo a ver la macromoderna, que era, básicamente, equilibrio general intertemporal,algo que ya había estado estudiando por mi cuenta y por muchotiempo, y ahí es cuando me convierto en un neoclásico recalcitrante,absolutamente ortodoxo. En ese entonces estaba de moda la Teoríade los Ciclos Reales, la cual, en términos de enfoque analítico(macroeconomía intertemporal microfundamentada), es una suertede Escuela Austríaca pero con mucha matemática. En dicho marco,",
+    "translated_content": "Tired of making so many mistakes with Keynesian and structuralist models, I enrolled at Di Tella. There I began to see modern macroeconomics, which was, basically, intertemporal general equilibrium, something I had already been studying on my own for a long time, and that's when I became a recalcitrant, absolutely orthodox neoclassical. At that time, Real Business Cycle Theory was in vogue, which, in terms of analytical approach (intertemporally microfounded macroeconomics), is a sort of Austrian School but with a lot of mathematics. Within that framework,",
+    "bbox": [
+      76.99219512939453,
+      525.6708984375,
+      533.037109375,
+      704.4287109375
+    ]
+  },
+  {
+    "type": "text",
+    "page": 25,
+    "content": "los ciclos vienen dados por cuestiones exógenas donde, salvo lapresencia de algún tipo de «fallo de mercado», no había rol algunopara la política monetaria (neutralidad del dinero) ni para la políticafiscal (equivalencia ricardiana). Lo único que podían hacer dichaspolíticas era daño. Sin embargo, el problema, desde mi punto devista, se encuentra en que dicho análisis está construido sobre elparadigma neoclásico y, cuando se da ingreso a los «fallos demercado», ahí se abre la caja de Pandora socialista. Si bien meresultaban mucho más confortables los resultados, todavía habíaalgo que no cerraba: sentía que tenía unos modelos matemáticosestéticamente hermosos, «bien ajustados empíricamente», pero lesfaltaba corazón, les faltaba el alma. Gozaban de una belleza vacía.",
+    "translated_content": "cycles are given by exogenous issues where, except for the presence of some kind of \"market failure\", there was no role for monetary policy (neutrality of money) or fiscal policy (Ricardian equivalence). The only thing these policies could do was harm. However, the problem, from my point of view, lies in the fact that this analysis is built on the neoclassical paradigm and, when \"market failures\" are introduced, the socialist Pandora's box is opened. Although the results were much more comfortable for me, something still didn't add up: I felt I had mathematically beautiful models, \"empirically well-adjusted\", but they lacked heart, they lacked soul. They possessed an empty beauty.",
+    "bbox": [
+      76.99219512939453,
+      73.4208984375,
+      527.1871337890625,
+      312.928955078125
+    ]
+  },
+  {
+    "type": "text",
+    "page": 25,
+    "content": "Sin lugar a dudas, guardo hermosos recuerdos de mi paso por laDi Tella, donde he tenido la posibilidad de cursar, escuchar y/oconocer a profesores maravillosos, como Alfredo Canavese, ErwinKlein, Pablo Guidotti, Guillermo Calvo, Pablo Sanguinetti, DanielHeymann, Julio Berlinsky, Ana Martirena Mantel y LeonardoGasparini. Obvio, un capítulo aparte merecen los matemáticosDiego Rial y Pablo Azcue, personas con un talento único para hacermuy fácil algo que no luce como tal. Aprendí tanto de cada uno deellos (del mismo modo que mis profesores del IDES y la UB) quesiempre guardarán un lugar destacado en mi corazón.",
+    "translated_content": "Without a doubt, I cherish beautiful memories of my time at Di Tella, where I had the opportunity to study with, listen to, and get to know wonderful professors, such as Alfredo Canavese, Erwin Klein, Pablo Guidotti, Guillermo Calvo, Pablo Sanguinetti, Daniel Heymann, Julio Berlinsky, Ana Martirena Mantel, and Leonardo Gasparini. Of course, the mathematicians Diego Rial and Pablo Azcue deserve a separate chapter; they are people with a unique talent for making something that doesn't seem easy appear so. I learned so much from each of them (just as I did from my professors at IDES and UB) that they will always hold a special place in my heart.",
+    "bbox": [
+      76.99219512939453,
+      316.421142578125,
+      531.357177734375,
+      515.428955078125
+    ]
+  }
+]
