@@ -28,21 +28,23 @@ This project uses an advanced translation technique to ensure high consistency a
 The pipeline is run by executing the scripts in order.
 
 1. Extract Content from PDF:  
-   This script reads the PDF, extracts all text blocks, and saves them to extracted\_content/data.json.  
-   python3 extract.py
+   This script reads the PDF, extracts all text blocks, and saves them to `extracted\_content/data.json`.  
+   `python3 extract.py`
 
 2. Run the Translation Pipeline:  
-   This script performs both Phase 1 (glossary creation) and Phase 2 (final translation). It reads from extracted\_content/data.json and produces the glossary and the final translated file.  
-   python3 translate.py
+   This script performs both Phase 1 (glossary creation) and Phase 2 (final translation). It reads from `extracted\_content/data.json` and produces the glossary and the final translated file.  
+   `python3 translate.py`
 
 3. Load Data to Firestore:  
-   This script takes the final translated\_data.json and uploads each block as a document to your specified Firestore collection.  
-   python3 load.py
+   This script takes the final `translated\_data.json` and uploads each block as a document to your specified Firestore collection.  
+   `python3 load.py`
 
 ## **Project Structure**
 
+`
 .  
 ├── .gitignore  
 ├── extract.py              \# Extracts text from the source PDF  
 ├── translate.py            \# Main script for the two-pass translation  
 ├── load.py                 \# Loads the final data into Firestore  
+`
