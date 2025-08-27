@@ -17,7 +17,7 @@ This project uses an advanced translation technique to ensure high consistency a
 1. **Phase** 1: Discovery Pass  
    * The script iterates through the source text block by block.  
    * For each block, it asks the Gemini API to identify potential key terms (proper nouns, specific concepts, etc.) and suggest translations.  
-   * These approved terms are automatically compiled into a central glossary.json file. This glossary grows and becomes more intelligent as more of the book is processed.  
+   * These approved terms are automatically compiled into a central `glossary.json` file. This glossary grows and becomes more intelligent as more of the book is processed.  
 2. **Phase 2: Finalization Pass**  
    * The script starts again from the beginning of the book.  
    * For each block, it sends the original text along with the **entire completed glossary** to the Gemini API.  
