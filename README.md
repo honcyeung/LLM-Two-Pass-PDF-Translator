@@ -1,4 +1,5 @@
 # **LLM Two-Pass PDF Translator**
+[View the interactive workflow diagram here](https://honcyeung.github.io/LLM-Two-Pass-PDF-Translator/)
 
 A fully automated, two-pass translation pipeline for PDF documents. This project extracts text blocks from a PDF, uses the Google Gemini API to intelligently build a glossary of key terms, and then performs a final, consistent translation which is uploaded to Google Firestore.
 
