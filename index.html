@@ -51,8 +51,8 @@
                     </div>
                     <div>
                         <h2 class="text-2xl font-bold mb-2">The Challenge: Translation Inconsistency</h2>
-                        <p class="text-slate-600">
-                            Standard LLM calls fail to translate key terms consistently across a large document split into blocks. Lacking memory of previous translations, models produce a disjointed and unprofessional final text.
+                        <p class="text-slate-600" style="text-align: justify;">
+                            Standard LLM calls fail to translate key terms consistently across a large document. Lacking memory of previous translations, LLMs produce a disjointed final text.
                         </p>
                     </div>
                 </div>
@@ -84,12 +84,12 @@
                             <h3 class="text-2xl font-bold">Discovery & Glossary Creation</h3>
                         </div>
                     </div>
-                    <p class="text-slate-600 mb-6">
-                        The first pass analyzes the entire document with the Gemini API to identify and extract key terms. It automatically builds a comprehensive translation glossary.
+                    <p class="text-slate-600 mb-6" style="text-align: justify;">
+                        The first pass analyzes the entire document with the Gemini to identify and extract key terms. It builds a comprehensive translation glossary.
                     </p>
                     <div class="bg-slate-100 p-4 rounded-lg">
                         <p class="font-mono text-sm text-slate-700">
-                            <span class="font-semibold text-slate-900">Output:</span> A comprehensive glossary.json file, automatically built and refined as the script processes the book.
+                            <span class="font-semibold text-slate-900">Output:</span> A comprehensive glossary file, built and refined as the script processes the book.
                         </p>
                     </div>
                 </div>
@@ -107,12 +107,12 @@
                             <h3 class="text-2xl font-bold">Consistent Final Translation</h3>
                         </div>
                     </div>
-                    <p class="text-slate-600 mb-6">
-                        The second pass re-translates the document from the beginning. For every block, it provides the entire glossary to the API, forcing the model to use the pre-approved terms for perfect consistency.
+                    <p class="text-slate-600 mb-6" style="text-align: justify;">
+                        The second pass re-translates the whole document. For every block, it provides the entire glossary to Gemini, forcing the model to use the pre-approved translated terms.
                     </p>
                     <div class="bg-slate-100 p-4 rounded-lg">
                         <p class="font-mono text-sm text-slate-700">
-                            <span class="font-semibold text-slate-900">Output:</span> A final translated_data.json file with perfectly consistent translations.
+                            <span class="font-semibold text-slate-900">Output:</span> A final translated file with consistent translations.
                         </p>
                     </div>
                 </div>
@@ -135,7 +135,7 @@
                            <svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10 text-slate-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" /></svg>
                         </div>
                         <p class="mt-2 font-semibold">1. Extract</p>
-                        <p class="text-sm text-slate-600 mt-1">PDF to JSON Blocks</p>
+                        <p class="text-sm text-slate-600 mt-1">PDF to JSON</p>
                     </div>
 
                     <div class="text-slate-300 text-4xl font-light hidden md:block">&rarr;</div>
