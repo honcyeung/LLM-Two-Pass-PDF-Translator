@@ -1,0 +1,4 @@
+google-cloud-storage
+pymupdf
+google-genai
+requests

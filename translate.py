@@ -7,10 +7,8 @@ import requests
 from google import genai
 from google.genai import types
 from google.cloud import aiplatform
-from google.cloud import vision
 from tqdm import tqdm
 from dotenv import load_dotenv
-from tqdm import tqdm 
 import time
 
 EXTRACTED_DATA_PATH = "./extracted_content/data.json"
@@ -26,7 +24,6 @@ PROMPT_TEMPLATE_IDENTIFIER = os.environ["PROMPT_TEMPLATE_IDENTIFIER"]
 GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
 GEMINI_GENERATIVE_MODEL = "gemini-2.5-flash-lite" # JSON Schema only works with Gemini 2.5
 TEMPERATURE = 0.2
-# translate with Azure?
 
 client = genai.Client(api_key = GEMINI_API_KEY)
 
